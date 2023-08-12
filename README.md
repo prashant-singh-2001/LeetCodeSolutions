@@ -13,13 +13,11 @@ This repository contains well-documented solutions to LeetCode problems, categor
 
 ## Solutions
 
-Browse through the problem categories to find solutions:
+Level Easy Solutions:
 
-- [Array](/Array)
-- [String](/String)
-- [Linked List](/LinkedList)
-- [Binary Tree](/BinaryTree)
-- ...
+- [Two Sum](/level_Easy/TwoSum.java)
+- [Roman To Integer](/level_Easy/RomanToInteger.java)
+- [Palindrome Number](/level_Easy/PalindromeNumber.java)
 
 Feel free to explore the solutions, learn from them, and suggest improvements if you come across a more efficient or elegant solution.
 
@@ -34,9 +32,9 @@ If you'd like to contribute to this repository:
 
 Fork the repository.
 
--Create a new branch for your feature/bug fix.
+- Create a new branch for your feature/bug fix.
 
--Add your solution to the appropriate category with a detailed explanation.
+- Add your solution to the appropriate category with a detailed explanation.
 
 - Submit a pull request.
 
