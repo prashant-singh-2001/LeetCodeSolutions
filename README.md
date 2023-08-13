@@ -36,7 +36,7 @@ Feel free to explore the solutions, learn from them, and suggest improvements if
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/leetcode-solutions.git
+   git clone https://github.com/prashant-singh-2001/leetCodeSolutions.git
 
 ## Contributing
 If you'd like to contribute to this repository:
