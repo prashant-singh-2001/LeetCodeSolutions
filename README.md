@@ -18,6 +18,17 @@ Level Easy Solutions:
 - [Two Sum](/level_Easy/TwoSum.java)
 - [Roman To Integer](/level_Easy/RomanToInteger.java)
 - [Palindrome Number](/level_Easy/PalindromeNumber.java)
+- [Loongest Common Prefix](/level_Easy/LongestCommonPrefix.java)
+- [Valid Parentheses](/level_Easy/ValidParentheses.java)
+- [Merge Two Sorted List](/level_Easy/MergeTwoSortedList.java)
+- [Remove Duplicates From Sorted Array](/level_Easy/RemoveDuplicatesfromSortedArray.java)
+- [Remove Element](/level_Easy/RemoveElement.java)
+- [First Occurence Of String](/level_Easy/FirstOccurenceOfString.java)
+- [Search Insert Position](/level_Easy/SearchInsertPosition.java)
+- [Length Of Last Word](/level_Easy/LengthOfLastWord.java)
+- [Plus One](/level_Easy/PlusOne.java)
+- [Add Binary](/level_Easy/AddBinary.java)
+
 
 Feel free to explore the solutions, learn from them, and suggest improvements if you come across a more efficient or elegant solution.
 
