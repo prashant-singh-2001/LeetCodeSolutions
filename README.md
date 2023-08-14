@@ -28,6 +28,12 @@ Level Easy Solutions:
 - [Length Of Last Word](/level_Easy/LengthOfLastWord.java)
 - [Plus One](/level_Easy/PlusOne.java)
 - [Add Binary](/level_Easy/AddBinary.java)
+- [Sqrt(x)](/level_Easy/Sqrt.java)
+- [Climbing Stairs](/level_Easy/ClimbingStairs.java)
+- [Remove Duplicates From Sorted List](/level_Easy/RemoveDuplicatesFromSortedList.java)
+- [Merge Sorted Array](/level_Easy/MergeSortedArray.java)
+- [Inorder Traversal](/level_Easy/InorderTraversal.java)
+- [Same Binary Tree](/level_Easy/SameBinaryTree.java)
 
 
 Feel free to explore the solutions, learn from them, and suggest improvements if you come across a more efficient or elegant solution.
