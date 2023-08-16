@@ -34,7 +34,18 @@ Level Easy Solutions:
 - [Merge Sorted Array](/level_Easy/MergeSortedArray.java)
 - [Inorder Traversal](/level_Easy/InorderTraversal.java)
 - [Same Binary Tree](/level_Easy/SameBinaryTree.java)
-
+- [Symmetric Tree](/level_Easy/SymmetricTree.java)
+- [Maximum Depth Of Binary Tree](/level_Easy/MaximumDepthOfBinaryTree.java)
+- [Convert Sorted Array To Binary Tree](/level_Easy/ConvertSortedArrayToBinaryTree.java)
+- [Balanced Tree](/level_Easy/BalancedTree.java)
+- [Minimum Depth Of Binary Tree](/level_Easy/MinimumDepthOfBinaryTree.java)
+- [Path Sum](/level_Easy/PathSum.java)
+- [Pascals Triangle](/level_Easy/PascalsTriangle.java)
+- [Pascals Triangle II](/level_Easy/PascalsTriangle.java)
+- [Best Time To Buy And Sell Stock](/level_Easy/BestTimeToBuyAndSellStock.java)
+- [Valid Palindrome](/level_Easy/ValidPalindrome.java)
+- [Single Number](/level_Easy/SingleNumber.java)
+- [Linked List Cycle](/level_Easy/LinkedListCycle.java)
 
 Feel free to explore the solutions, learn from them, and suggest improvements if you come across a more efficient or elegant solution.
 
