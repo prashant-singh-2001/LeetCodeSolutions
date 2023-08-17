@@ -13,7 +13,7 @@ This repository contains well-documented solutions to LeetCode problems, categor
 
 ## Solutions
 
-Level Easy Solutions:
+### Level Easy Solutions: 🟢
 
 - [Two Sum](/level_Easy/TwoSum.java)
 - [Roman To Integer](/level_Easy/RomanToInteger.java)
@@ -46,6 +46,15 @@ Level Easy Solutions:
 - [Valid Palindrome](/level_Easy/ValidPalindrome.java)
 - [Single Number](/level_Easy/SingleNumber.java)
 - [Linked List Cycle](/level_Easy/LinkedListCycle.java)
+
+### Level Medium Problem 🟡
+- [Add Two Numbers](/level_Medium/AddTwoNumbers.java)
+- [Container With Most Water](/level_Medium/ContainerWithMostWater.jaava)
+- [Integer To Roman](/level_Medium/IntegerToRoman.java)
+- [Letter Combinations Of A Phone Number](/level_Medium/LetterCombinationsOfAPhoneNumber.java)
+- [Longest Palindromic Substring](/level_Medium/LongestPalindromicSubstring.java)
+
+
 
 Feel free to explore the solutions, learn from them, and suggest improvements if you come across a more efficient or elegant solution.
 
