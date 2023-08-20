@@ -53,6 +53,11 @@ This repository contains well-documented solutions to LeetCode problems, categor
 - [Integer To Roman](/level_Medium/IntegerToRoman.java)
 - [Letter Combinations Of A Phone Number](/level_Medium/LetterCombinationsOfAPhoneNumber.java)
 - [Longest Palindromic Substring](/level_Medium/LongestPalindromicSubstring.java)
+- [Longest Substring Without Repeating Characters](/level_Medium/LongestSubstringWithoutRepeatingCharacters.java)
+- [Reverse Integer](/level_Medium/ReverseInteger.java)
+- [String To Integer](/level_Medium/StringToInteger.java)
+- [Three Sum](/level_Medium/ThreeSum.java)
+- [Three Sum Closest](/level_Medium/ThreeSumClosest.java)
 
 
 
