@@ -58,6 +58,16 @@ This repository contains well-documented solutions to LeetCode problems, categor
 - [String To Integer](/level_Medium/StringToInteger.java)
 - [Three Sum](/level_Medium/ThreeSum.java)
 - [Three Sum Closest](/level_Medium/ThreeSumClosest.java)
+- [Binary Tree Preorder Traversal](/level_Easy/BinaryTreePreorderTraversal.java)
+- [Binary Tree Postorder Traversal](/level_Easy/BnaryTreePostorderTraversal.java)
+- [Interscetion Of Two Linked List](/level_Easy/IntersectionOfTwoLinkedList.java)
+- [Excel Sheet Column Title](/level_Easy/ExcelSheetColumnTitle.java)
+- [Majority Element](/level_Easy/MajorityElement.java)
+- [Excel Sheet Column Number](/level_Easy/ExcelSheetColumnNumber.java)
+- [Reverse Bits](/level_Easy/ReverseBits.java)
+- [Number Of 1 Bits](/level_Easy/NumberOf1Bits.java)
+- [Happy Number](/level_Easy/HappyNumber.java)
+- [Remove Linked List](/level_Easy/RemoveLinkedList.java)
 
 
 
